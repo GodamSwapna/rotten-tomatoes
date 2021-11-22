@@ -1,0 +1,10 @@
+{
+    "Comedy": 8,
+    "Adventure": 6,
+    "Fantasy": 8,
+    "Kids": 10,
+    "family": 10,
+    "Animation": 10,
+    "Action": 2,
+    "Music": 2
+}
